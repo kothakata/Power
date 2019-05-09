@@ -4,4 +4,6 @@ chandhu
 kumar
 nani
 santhosh
+hindi
+master expert
 
